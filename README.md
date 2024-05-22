@@ -15,6 +15,18 @@
   * 언어 : Java 11
   * DB : MySQL
 * 개발 인원 : 1명(개인 프로젝트)
+
+## 프로젝트 설계
+
+* 프로젝트 일정
+<details>
+    <summary>보기</summary>
+
+![image](https://github.com/koyuhjkl123/RussianRoulette/assets/94844952/a58e03f1-a049-412e-8025-d684262d21e4)
+
+</details>
+ 
+
 <br>
 
 # 게임 설명
