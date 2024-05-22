@@ -40,6 +40,7 @@
 <br>
 
 * 로그인 후 게임 진행
+
 ![image](https://github.com/koyuhjkl123/RussianRoulette/assets/94844952/b26fb648-e4f7-4451-b457-56fc50b59208)
 <br>
 
