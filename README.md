@@ -34,6 +34,8 @@
   * ![image](https://github.com/koyuhjkl123/RussianRoulette/assets/94844952/f9c5e944-d3f2-48b7-b2d1-c7e68af4d7c2)
 * 이메일 인증
   * ![image](https://github.com/koyuhjkl123/RussianRoulette/assets/94844952/5f0cbb92-bc59-462f-a879-1e50c38d420e) ![image](https://github.com/koyuhjkl123/RussianRoulette/assets/94844952/8a8ad9da-fe6e-43c7-8e38-d5e43e6c3a88)
-* 로그인
-  * ![image](https://github.com/koyuhjkl123/RussianRoulette/assets/94844952/27ee821f-436b-4a3b-a60b-5b9b1ebbb6b6)
+* 로그인 후 게임 진행
+![image](https://github.com/koyuhjkl123/RussianRoulette/assets/94844952/b26fb648-e4f7-4451-b457-56fc50b59208)
+![image](https://github.com/koyuhjkl123/RussianRoulette/assets/94844952/cffe3f41-d3b9-4082-86e5-1bc99b4f3c13)
+
 
