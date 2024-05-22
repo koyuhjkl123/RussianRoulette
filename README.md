@@ -31,8 +31,11 @@
   * 게임 시작 하기 전 회원 가입을 통해 이메일 인증 하신 후 게임 진행이 가능
 
 * 회원 가입
+
 ![image](https://github.com/koyuhjkl123/RussianRoulette/assets/94844952/f9c5e944-d3f2-48b7-b2d1-c7e68af4d7c2)
+
 * 이메일 인증
+
 ![image](https://github.com/koyuhjkl123/RussianRoulette/assets/94844952/5f0cbb92-bc59-462f-a879-1e50c38d420e)
 <br>
 
