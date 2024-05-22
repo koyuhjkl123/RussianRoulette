@@ -4,6 +4,7 @@
 
 # 목차
 * 개요
+* 프로젝트 설계
 * 게임 설명
 * 게임 플레이 방식
 
@@ -16,17 +17,19 @@
   * DB : MySQL
 * 개발 인원 : 1명(개인 프로젝트)
 
-## 프로젝트 설계
+# 프로젝트 설계
 
+## 프로젝트 일정
 <details>
-    <summary>프로젝트 일정</summary>
+    <summary>WBS</summary>
 
 ![image](https://github.com/koyuhjkl123/RussianRoulette/assets/94844952/a58e03f1-a049-412e-8025-d684262d21e4)
 
 </details>
- 
+
+## 인터페이스 메소드
 <details>
-    <summary>인터페이스 메소드</summary>
+    <summary>코드 보기</summary>
 
 ```java
 public interface UserAdmin {
