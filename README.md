@@ -121,7 +121,8 @@ public interface UserAdmin {
 
 * 회원 가입
 
-![image](https://github.com/koyuhjkl123/RussianRoulette/assets/94844952/f9c5e944-d3f2-48b7-b2d1-c7e68af4d7c2)
+![332756280-f9c5e944-d3f2-48b7-b2d1-c7e68af4d7c2](https://github.com/user-attachments/assets/00d45a13-1b2d-4187-9101-0cca054daa97)
+
 
 * 이메일 인증
 
